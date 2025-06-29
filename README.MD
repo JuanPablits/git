@@ -1,0 +1,1 @@
+#este é meu repositório inicial, to aprendendo a usar git
