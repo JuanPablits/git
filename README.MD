@@ -12,3 +12,4 @@
 #git checkout nome da branch: eu vou navegar para dentro da branch
 #git branch -d nome da branch: deleta a branch (d minusculo só deleta se estiver vazio, D maiúsculo deleta mesmo se tiver coisa dentro da branch ainda não mesclada)
 #git merge nome da qual você quer mesclar na atual onde você se encontra: mescla as branches
+#.gitignore: tudo que eu escrever nesse arquivo vai ser ignorado na hora de postar
