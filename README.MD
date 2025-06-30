@@ -10,3 +10,5 @@
 #git branch: lista todas as branches
 #git branch nome da nova branch: faz uma branch nova
 #git checkout nome da branch: eu vou navegar para dentro da branch
+#git branch -d nome da branch: deleta a branch (d minusculo só deleta se estiver vazio, D maiúsculo deleta mesmo se tiver coisa dentro da branch ainda não mesclada)
+#git merge nome da qual você quer mesclar na atual onde você se encontra: mescla as branches
