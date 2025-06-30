@@ -4,3 +4,4 @@
 #git status: mostra aquilo que eu alterei
 #git pull  origin main: serve para baixar as atualizações mais recentes do repositório
 #git push origin main: eu mando para o github
+#to testando a branche nova (nome engraçado, parece batchê)
